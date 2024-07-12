@@ -3,25 +3,27 @@
 # 김승수 포트폴리오
 
 ## 소개
-안녕하세요, 저는 김승수입니다. 신입 백엔드 개발자입니다. JAVA와 SPRING BOOT에 전문성을 갖추고 있으며, 팀 모두에게 긍정적인 영향을 줄 수 있는 개발자가 되는 것을 목표로 개발을 공부하고 있습니다.
+안녕하세요, 저는 신입 백엔드 개발자 김승수입니다. JAVA와 SPRING BOOT에 전문성을 갖추고 있으며, 팀 모두에게 긍정적인 영향을 줄 수 있는 개발자가 되는 것을 목표로 개발을 공부하고 있습니다.
 
 ## 연락처
-- 이메일: [kos7114@naver.com](mailto:kos7114@naver.com)
-- 전화번호: [010-4220-7114]
-- 깃허브: [https://github.com/kss123456789](https://github.com/kss123456789)
+- 📧 이메일: kos7114@naver.com
+- 📞 전화번호: 010-4220-7114
+- 🌐 GitHub: [https://github.com/kss123456789](https://github.com/kss123456789)
 
-## 기술 스택 ###(관심분야)
+## 기술 스택
 - **프로그래밍 언어**: Java, Python, JavaScript
-- **프레임워크 및 라이브러리**: Spring Boot, Django, Flask, React
+- **프레임워크**: Spring Boot, Django, Flask
 - **데이터베이스**: MySQL, MongoDB, Redis, OracleDB
-- **도구 및 플랫폼**: AWS, Git, Nginx, Oracle, (Docker)
+- **도구 및 플랫폼**: AWS, Git, Nginx, Oracle, 
+- **관심 분야**: Docker
 
 ## 프로젝트
 
 ### 프로젝트 1: LOL게임 경기 승률 예측 서비스 (2023. 05 ~ 2023. 06)
 - **설명**: LOL 게임의 경기 승률을 예측하는 서비스입니다.
-- **역할**: 백엔드 개발
+- **역할**: 백엔드 개발(단독)
 - **사용 기술**: Java, Spring, MySQL, Redis, Nginx, AWS
+- **사용 라이브러리**: JWT (io.jsonwebtoken:jjwt), Spring Security, Spring Data JPA, Lombok, AWS SDK
 - **주요 성과**:
   - 최신업데이트와 보안성등을 고려하여 Java21도입 
   - AccessToken과 RefreshToken(Redis)을 통한 사용자 로그인 관리
@@ -40,6 +42,7 @@
 - **설명**: 차량 출고 신청 및 관리 플랫폼입니다.
 - **역할**: 백엔드 개발
 - **사용 기술**: Java, Spring, MySQL, Redis, webRTC, Nginx, AWS
+- **사용 라이브러리**: JWT (io.jsonwebtoken:jjwt), Spring Security, Spring Data JPA, Lombok, AWS SDK, WebSocket (Spring WebSocket), Socket.io
 - **주요 성과**:
   - AccessToken과 RefreshToken(Redis)을 통한 사용자 로그인 관리
   - Google, Kakao Oauth2를 통한 소셜 로그인 구현
