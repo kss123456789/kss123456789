@@ -10,11 +10,11 @@
 - 전화번호: [010-4220-7114]
 - 깃허브: [https://github.com/kss123456789](https://github.com/kss123456789)
 
-## 기술 스택 (관심분야)
+## 기술 스택 ###(관심분야)
 - **프로그래밍 언어**: Java, Python, JavaScript
-- **프레임워크 및 라이브러리**: Spring Boot, Django, Flask,   React
-- **데이터베이스**: MySQL, MongoDB, OracleDB, Redis
-- **도구 및 플랫폼**: AWS, Git, Oracle, Nginx (Docker)
+- **프레임워크 및 라이브러리**: Spring Boot, Django, Flask, React
+- **데이터베이스**: MySQL, MongoDB, Redis, OracleDB
+- **도구 및 플랫폼**: AWS, Git, Nginx, Oracle, (Docker)
 
 ## 프로젝트
 
@@ -34,6 +34,7 @@
   - AWS를 통해 RDS(MySQL), Route53, EC2 클라우드 서버 배포
   - Nginx를 통한 리버스 프록시 설정 및 https ssl 인증, 도메인 적용
   - SSE를 통한 경기 일정 및 결과 알림 구현
+  - 현재 AWS에서 OCI로 이전작업중...
 
 ### 프로젝트 2: 차량출고 플랫폼 개발 (2023. 07 ~ 2023. 09)
 - **설명**: 차량 출고 신청 및 관리 플랫폼입니다.
